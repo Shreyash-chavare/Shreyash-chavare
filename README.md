@@ -12,6 +12,24 @@
 
 ---
 
+---
+
+## 🧩 LeetCode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/u/Pacco_shreyash/" target="_blank">
+    <img width="48%" src="https://leetcard.jacoblin.cool/Pacco_shreyash?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Pacco_shreyash/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Pacco__shreyash-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
+
+---
+
 ## 🚀 About Me
 
 ```javascript
