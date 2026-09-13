@@ -35,8 +35,8 @@
 ```javascript
 const shreyash = {
     location: "India 🇮🇳",
-    role : "Full-Stack MERN Developer",
-    this year goals: ["DevOps", "AWS", "System Design"],
+    role : "Full-Stack JAVA Developer",
+    this year goals: ["AWS", "System Design"],
     currentFocus: [
         "Improving problem-solving skills 🧩",
         "Mastering Microservices architecture 🏗️",
