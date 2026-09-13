@@ -98,19 +98,23 @@ const shreyash = {
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="Kafka"/>
 </p>
 
-### 🤖 Agentic AI
+### 🤖 Generative AI & Agentic AI
+
 <p align="left">
+  <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge" alt="Large Language Models"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logoColor=white" alt="MCP"/>
-  <img src="https://img.shields.io/badge/Agentic_AI-6E40C9?style=for-the-badge&logoColor=white" alt="Agentic AI"/>
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge" alt="Model Context Protocol"/>
+  <img src="https://img.shields.io/badge/RAG-6E40C9?style=for-the-badge" alt="RAG"/>
+  <img src="https://img.shields.io/badge/AI_Agents-6E40C9?style=for-the-badge" alt="AI Agents"/>
+  <img src="https://img.shields.io/badge/Vector_Databases-405DE6?style=for-the-badge" alt="Vector Databases"/>
 </p>
 
-### ☁️ Cloud & DevOps
+
+### ☁️ Cloud
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
 ### 🔧 Tools
