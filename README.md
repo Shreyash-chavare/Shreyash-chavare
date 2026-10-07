@@ -17,8 +17,8 @@
 ## 🎓 Certifications & Badges
 
 <p align="center">
-  <img src="./assets/badges/aws-cloud-practitioner.png" width="300" alt="AWS Cloud Practitioner"/>
-  <img src="./assets/badges/oracle-agentic-ai.png" width="300" alt="Oracle Agentic AI"/>
+  <img src="./assets/badges/assets/badges/aws-cloud-quest-cloud-practitioner-training-badge.png" width="300" alt="AWS Cloud Practitioner"/>
+  <img src="./assets/badges/assets/badges/AAI26OFA.jpg" width="300" alt="Oracle Agentic AI"/>
 </p>
 
 
